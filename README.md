@@ -5,7 +5,7 @@
 <div align="center">
 
 # Hello, I'm SeoJun👏
-![totoro](https://github.com/junny97/junny97/assets/72855681/941516a7-0348-4ad7-9d1c-294265680b99 )
+![4346c3b6-05a6-4b71-add4-99de863f591d](https://github.com/junny97/junny97/assets/72855681/f14faa46-1960-4b08-b1ce-fb7635e7118e)
 
 
 ## ⛏️ Front-end Stack 
