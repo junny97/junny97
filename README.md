@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/styled--components-%23DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white" /> <br>
 <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/redux-%23764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white" />
-
+<img src="https://img.shields.io/badge/Recoil-FD2251?style=for-the-badge&logo=Recoil&logoColor=white%22/%3E" />
 
 </div>
 
