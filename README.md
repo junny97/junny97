@@ -8,7 +8,7 @@
 
 ![totoro](https://github.com/junny97/junny97/assets/72855681/15a71494-a9ac-4dad-87c0-4f508bba3f35)
 
-## ✨ Front-end Stack ✨
+## ⛏️ Front-end Stack 
 
 <div>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
@@ -21,7 +21,7 @@
 
 </div>
 
-## ✨ Cowork tools ✨
+## ✨ Cowork tools 
 
 <div>
 <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
