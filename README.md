@@ -8,7 +8,7 @@
 ![4346c3b6-05a6-4b71-add4-99de863f591d](https://github.com/junny97/junny97/assets/72855681/f14faa46-1960-4b08-b1ce-fb7635e7118e)
 
 
-## ⛏️ Front-end Stack 
+## ⛏️ Stacks
 
 <div>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
@@ -18,16 +18,15 @@
 <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/redux-%23764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white" />
 <img src="https://img.shields.io/badge/Recoil-FD2251?style=for-the-badge&logo=Recoil&logoColor=white%22/%3E" />
-
-</div>
-
-## ✨ Cowork tools 
-
-<div>
 <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/postman-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white" />
 </div>
+
+## 📌About Me
+<a href="https://velog.io/@sj_yun" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"/></a>
+<a href="mailto:pcohad12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 
 <br />
 
