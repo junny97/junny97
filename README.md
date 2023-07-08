@@ -8,7 +8,7 @@
 ![4346c3b6-05a6-4b71-add4-99de863f591d](https://github.com/junny97/junny97/assets/72855681/f14faa46-1960-4b08-b1ce-fb7635e7118e)
 
 
-## ⛏️ Stack
+## ⛏️ Stacks
 
 <div>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
