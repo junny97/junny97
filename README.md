@@ -3,7 +3,7 @@
 
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=A2BBD1&height=150&section=header&text=I'm%20seojun&desc=&animation=blink&fontColor=FFFFFF&fontAlign=70&descAlign=90&descAlignY=70&fontSize=90" /><br><br><br>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=A2BBD1&height=200&section=header&text=I'm%20seojun&desc=&animation=blink&fontColor=FFFFFF&fontAlign=70&descAlign=90&descAlignY=70&fontSize=90" /><br><br><br>
 
 ## ⛏️ Stacks
 
