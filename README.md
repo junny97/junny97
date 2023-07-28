@@ -5,11 +5,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=A2BBD1&height=200&section=header&text=i'm%20junny&desc=&animation=blink&fontColor=FFFFFF&fontAlign=75&descAlign=90&descAlignY=70&fontSize=90" /><br><br><br>
 
-
-# Hello, I'm SeoJun👏
-![4346c3b6-05a6-4b71-add4-99de863f591d](https://github.com/junny97/junny97/assets/72855681/f14faa46-1960-4b08-b1ce-fb7635e7118e)
-
-
 ## ⛏️ Stacks
 
 <div>
