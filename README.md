@@ -25,7 +25,7 @@
 
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junny97&theme=shadow_green&show&height=200)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junny97&layout=compact&height=200)](https://github.com/leemember/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junny97&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junny97&layout=compact)](https://github.com/깃minyuet/github-readme-stats)
 </div>
