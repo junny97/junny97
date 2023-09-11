@@ -1,31 +1,40 @@
+<div align="center">
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:86A8E7,100:91EAE4&height=150&section=header&text=Seojun's%20GitHub&fontSize=30&fontColor=ffffff&fontAlignY=35)
 
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=20&section=header&text=Hello,%20I'm%20Seojun%20Yoon&fontSize=20&animation=twinkling&fontColor=86A8E7)
+
+<h3>🤗 About me</h3>
+<a href="https://velog.io/@sj_yun" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
+<a href="mailto:pcohad12@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/gmail-F24E1E?style=flat-square&logo=gmail&logoColor=white"/></a>
+
+<br/>
+
+<br>
+<div align="center">
+  <h3>💻 My Skills</h3>
+<div>
+	<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp
+	<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
+</div>
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junny97&hide=scss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junny97&bg_color=86A8E7&text_color=ffffff&title_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=A2BBD1&height=200&section=header&text=I'm%20seojun&desc=&animation=blink&fontColor=FFFFFF&fontAlign=70&descAlign=90&descAlignY=70&fontSize=90" /><br><br><br>
 
-## ⛏️ Stacks
-
-<div>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"><br>
-<img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/redux-%23764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/Recoil-FD2251?style=for-the-badge&logo=Recoil&logoColor=white%22/%3E" />
-
-</div>
-
-## 📌About Me
-<a href="https://velog.io/@sj_yun" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"/></a>
-<a href="mailto:pcohad12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-
-<br />
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junny97&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junny97&layout=compact)](https://github.com/깃minyuet/github-readme-stats)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:86A8E7,100:91EAE4&height=150&section=footer&text=&fontSize=50)
 </div>
