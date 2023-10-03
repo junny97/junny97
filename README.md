@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=20&section=header&text=Hello,%20I'm%20Seojun%20Yoon&fontSize=20&animation=twinkling&fontColor=86A8E7)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=20&section=header&text=Hello,%20I'm%20Seojun%20Yoon!&fontSize=20&animation=twinkling&fontColor=86A8E7)
 
 <h3>🤗 About me</h3>
 <a href="https://velog.io/@sj_yun" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
