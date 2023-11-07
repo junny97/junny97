@@ -34,10 +34,10 @@
 
 <br>
 
+### 📝 My Record 📝
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sj_yun)](https://velog.io/@sj_yun)
 
 
-
-<div align="center">
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:88B14B,100:91EAE4&height=150&section=footer&text=&fontSize=50)
 </div>
