@@ -34,7 +34,7 @@
 
 <br>
 
-### 📝 My Record 📝
+### 📝 My Record 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sj_yun)](https://velog.io/@sj_yun)
 
 
