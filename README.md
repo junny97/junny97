@@ -6,7 +6,6 @@
 
 ## 🌳 프론트엔드 개발자 윤서준입니다.
 
-
 <h3>🌱About me</h3> 
 <a href="https://velog.io/@sj_yun" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 <a href="mailto:pcohad12@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/gmail-F24E1E?style=flat-square&logo=gmail&logoColor=white"/></a>
@@ -14,7 +13,7 @@
 
 <br>
 <div align="center">
-  <h3>💻 My Skill</h3>
+  <h3>💻 My Skills</h3>
 <div>
 	<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp
 	<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp
