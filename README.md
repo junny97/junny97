@@ -4,7 +4,7 @@
 
 <div align="center">
 
-## 🌳 프론트엔드 개발자 윤서준입니다.
+## 🌳 프론트엔드 개발자 윤서준입니다
 
 <h3>🌱About me</h3> 
 <a href="https://velog.io/@sj_yun" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
