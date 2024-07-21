@@ -1,49 +1,35 @@
-<div align="center">
+<div align="left">
+	
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  Hi, I'm Seojun Yoon	
+🌳 Frontend Developer  
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:88B14B,100:91EAE4&height=150&section=header&text=Seojun's%20GitHub&fontSize=30&fontColor=ffffff&fontAlignY=35)
+```
+npx seojun!
+```
 
-<div align="center">
-
-## 🌳 프론트엔드 개발자 윤서준입니다
-    
-                
-
-<h3>🌱About me</h3> 
-<a href="https://velog.io/@sj_yun" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
-<a href="mailto:pcohad12@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/gmail-F24E1E?style=flat-square&logo=gmail&logoColor=white"/></a>
-
+  
+[![Velog Badge](https://img.shields.io/badge/Velog-@sj_yoon-Brightgreen?style=flat-square&logo=Velog)]([https://velog.io/@osohyun0224/](https://velog.io/@sj_yun/posts))
+[![Gmail Badge](https://img.shields.io/badge/Gmail-pcohad12@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pcohad12@gmail.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunny97%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<br/>
+<h2>📚 Tech Stack </h2> 
+
+ <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,styledcomponents&perline="/><br/>
+<img src="https://skillicons.dev/icons?i=vite,vercel,postman,figma,discord"/>
+ 
+ 
+<br/>
+<h2> 🤝 Open Source Contributions </h2> 
+
+### [ko.react.dev : Rules of React](https://ko.react.dev/reference/rules)<br/>
+  - Translation the  Rules of React Overview page
+  - [contribution pull request](https://github.com/reactjs/ko.react.dev/pulls?q=involves%3Ajunny97)
 
 <br/>
 
-<br>
-<div align="center">
-  <h3>💻 My Skills</h3>
-<div>
-	<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp
-	<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp
-<img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>&nbsp
-<img src="https://img.shields.io/badge/tailwindcss-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
-
-</div>
+<h2>🏆 Top Langs </h2> 
 
 
-
-<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junny97&hide=scss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
-
-
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:88B14B,100:91EAE4&height=150&section=footer&text=&fontSize=50)
-</div>
