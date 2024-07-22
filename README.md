@@ -16,7 +16,7 @@ npx seojun!
 <h2>📚 Tech Stack </h2> 
 
  <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,styledcomponents&perline="/><br/>
-<img src="https://skillicons.dev/icons?i=vite,vercel,postman,figma,discord"/>
+<img src="https://skillicons.dev/icons?i=vite,vitest,vercel,postman,figma,"/>
  
  
 <br/>
